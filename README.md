@@ -39,21 +39,14 @@ print("{:.2f}".format(ans))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
 ![image](https://user-images.githubusercontent.com/121215786/214874963-4bf13d9a-c6c3-4181-b169-5d46b7e472f3.png)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://user-images.githubusercontent.com/121215786/214874811-93194397-c10e-424e-a5a8-85dddb2eba2a.png)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://user-images.githubusercontent.com/121215786/214874484-8e1a821e-bc64-4312-8559-fd79da064b54.png)
 
 
